@@ -27,7 +27,7 @@ I built this from the ground up to be practical and scalable:
 ## Database Schema
 The following diagram illustrates the relationship between the customers, stock, and sales data within the star schema:
 
-![Schema Diagram](last_resort_prep_schema_diagram.png)
+![Schema Diagram](Resources/last_resort_prep_schema_diagram.png)
 
 ## Project Files
 * [Last_Resort_Prep.sql](Last_Resort_Prep.sql) - Database schema and data insertion.
