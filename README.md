@@ -23,3 +23,7 @@ I built this from the ground up to be practical and scalable:
 * **Power BI:** I focused on creating a dashboard that doesn't just show charts, but tells the story of how the store is performing day-to-day.
 
 * **Real-world logic:** I treated this like a genuine business challenge, focusing on the data that would actually help a business owner make better choices.
+
+## Project Files
+* [Last_Resort_Prep.sql](Last_Resort_Prep.sql) - Database schema and data insertion.
+* [Last_Resort_Prep_Analysis.sql](Last_Resort_Prep_Analysis.sql) - Queries used for business performance insights.
