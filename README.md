@@ -24,6 +24,8 @@ I built this from the ground up to be practical and scalable:
 
 * **Real-world logic:** I treated this like a genuine business challenge, focusing on the data that would actually help a business owner make better choices.
 
+**Dashboard (Coming Soon):** "A Power BI dashboard is currently in development to visualize the trends identified in the analysis queries".
+
 ## Database Schema
 The following diagram illustrates the relationship between the customers, stock, and sales data within the star schema:
 
